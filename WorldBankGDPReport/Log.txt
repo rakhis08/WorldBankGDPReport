@@ -10,3 +10,12 @@
 2019-02-26T21:48:28+00:00 Selected year: 2014
 2019-02-26T21:48:28+00:00 Endpoint: http://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?date=2014&format=json&per_page=300
 2019-02-26T21:48:28+00:00 listOfCountriesWithGDPValue count: 217
+2019-02-27T09:37:27+00:00 Selected year: 2017
+2019-02-27T09:37:27+00:00 Endpoint: http://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?date=2017&format=json&per_page=300
+2019-02-27T09:37:29+00:00 listOfCountriesWithGDPValue count: 217
+2019-02-27T09:37:32+00:00 Selected year: 2015
+2019-02-27T09:37:32+00:00 Endpoint: http://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?date=2015&format=json&per_page=300
+2019-02-27T09:37:32+00:00 listOfCountriesWithGDPValue count: 217
+2019-02-27T09:37:35+00:00 Selected year: 2018
+2019-02-27T09:37:35+00:00 Endpoint: http://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?date=2018&format=json&per_page=300
+2019-02-27T09:37:36+00:00 listOfCountriesWithGDPValue count: 217

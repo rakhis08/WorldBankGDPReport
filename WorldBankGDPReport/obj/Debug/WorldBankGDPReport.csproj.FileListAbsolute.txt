@@ -31,3 +31,38 @@ F:\Rakhi_F_Drive\Test Applications_F_Drive\WorldBankGDPReport\WorldBankGDPReport
 F:\Rakhi_F_Drive\Test Applications_F_Drive\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.dll
 F:\Rakhi_F_Drive\Test Applications_F_Drive\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.pdb
 F:\Rakhi_F_Drive\Test Applications_F_Drive\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.csprojResolveAssemblyReference.cache
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\ApplicationInsights.config
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\csc.exe
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\System.Collections.Immutable.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\vbc.exe
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\VBCSCompiler.exe
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\roslyn\VBCSCompiler.exe.config
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\WorldBankGDPReport.dll.config
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\WorldBankGDPReport.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\WorldBankGDPReport.pdb
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.DependencyCollector.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.Web.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.WindowsServer.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.ApplicationInsights.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.DependencyCollector.xml
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.Web.xml
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.AI.WindowsServer.xml
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.ApplicationInsights.xml
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.csprojAssemblyReference.cache
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.csproj.CoreCompileInputs.cache
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.csproj.CopyComplete
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.dll
+C:\Rakhi_Work\TestProj\WorldBankGDPReport\WorldBankGDPReport\obj\Debug\WorldBankGDPReport.pdb
